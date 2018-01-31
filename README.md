@@ -10,15 +10,13 @@ A minimum viable React app with [Parcel Bundler](https://parceljs.org)
 * `babel-preset-react-app`
 * `SCSS starter file`
 
-> Also [checkout out the TypeScript branch](https://github.com/jaredpalmer/react-parcel-example/tree/typescript)
-
 ## Getting started
 
 Clone and install deps
 
 ```
 git clone git@github.com:jamesmenera/basic-parcel-scss-kit.git
-cd react-parcel-example
+cd basic-parcel-scss-kit
 yarn
 yarn start
 ```
