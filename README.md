@@ -17,7 +17,7 @@ A minimum viable React app with [Parcel Bundler](https://parceljs.org)
 Clone and install deps
 
 ```
-git clone git@github.com:jaredpalmer/react-parcel-example.git
+git clone git@github.com:jamesmenera/basic-parcel-scss-kit.git
 cd react-parcel-example
 yarn
 yarn start
